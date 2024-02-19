@@ -1,6 +1,6 @@
 # PatriciaaOliveira
 ## 💡 Oiii eu sou a Patricia Olveira
-⭐Estudante de Analise e Desenvolvimento de Sistemas!⭐
+⭐Estudante de Analise e Desenvolvimento de Sistemas!⭐<br>
 ⭐Estudando: Html5 e Css3 , C#, JavaScript, Python, TypeScript...⭐
 ##
 <div>
