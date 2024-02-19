@@ -5,11 +5,10 @@
 ##
 <div>
   <a href="htpps://github.com/PatriiciaaOliveira">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=patriciaaoliveira&theme=omni&show_icons=true)"/>
-  <img height="175em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciaaoliveira&theme=omni&show_icons=true)"/> 
-    ##
+  <img height="175em"src="https://github-readme-stats.vercel.app/api?username=patriciaaoliveira&theme=omni&show_icons=true)"/>
+  <img height="175em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciaaoliveira&theme=omni&show_icons=true)"/>    
 </div>
- 
+ <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Patricia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Patricia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
