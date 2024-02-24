@@ -6,7 +6,7 @@
 <div>
   <a href="htpps://github.com/PatriiciaaOliveira">
   <img height="175em"src="https://github-readme-stats.vercel.app/api?username=patriciaaoliveira&theme=omni&show_icons=true)"/>
-  <img height="175em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciaaoliveira&theme=omni&show_icons=true)"/>    
+ 
 </div>
  <br>
 <div style="display: inline_block"><br>
