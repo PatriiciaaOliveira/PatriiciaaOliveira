@@ -1,4 +1,4 @@
-<h2 align="left">Hi !⭐ My name is Patricia Oliveira⭐</h2>
+<h2 align="left">Hi 👋! My name is Patricia Oliveira</h2>
 
 ###
 
@@ -17,12 +17,16 @@
 ###
 
 <div align="left">
-  <a href="patriciaholiveira30@gmail.com" target="_blank">
+  <a href="patriciaholiveira@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/patricia-oliveira-b05545261/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas com uma sólida formação em Pedagogia. <br>Possuo conhecimentos em diversas tecnologias e ferramentas, incluindo HTML, CSS, Power BI, C#, JavaScript, Python e banco de dados. Atualmente, estou em fase inicial de aprendizado do inglês. <br>Minha formação diversificada me permite ter uma visão ampla e integrada tanto na área de TI quanto na educação, potencializando minhas habilidades de comunicação, ensino e desenvolvimento de soluções tecnológicas.<br><br>Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos que promovam inovação e eficiência. Meu objetivo é contribuir com a transformação digital das empresas, utilizando minhas competências técnicas e pedagógicas para desenvolver soluções que facilitem o aprendizado e melhorem os processos de trabalho.</p>
 
 ###
