@@ -12,6 +12,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -27,6 +35,6 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas com uma sólida formação em Pedagogia. <br>Possuo conhecimentos em diversas tecnologias e ferramentas, incluindo HTML, CSS, Power BI, C#, JavaScript, Python e banco de dados. Atualmente, estou em fase inicial de aprendizado do inglês. <br>Minha formação diversificada me permite ter uma visão ampla e integrada tanto na área de TI quanto na educação, potencializando minhas habilidades de comunicação, ensino e desenvolvimento de soluções tecnológicas.<br><br>Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos que promovam inovação e eficiência. Meu objetivo é contribuir com a transformação digital das empresas, utilizando minhas competências técnicas e pedagógicas para desenvolver soluções que facilitem o aprendizado e melhorem os processos de trabalho.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas com uma sólida formação em Pedagogia. <br>Possuo conhecimentos em diversas tecnologias e ferramentas.<br>Minha formação diversificada me permite ter uma visão ampla e integrada tanto na área de TI quanto na educação, potencializando minhas habilidades de comunicação, ensino e desenvolvimento de soluções tecnológicas.<br><br>Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos que promovam inovação e eficiência. Meu objetivo é contribuir com a transformação digital das empresas, utilizando minhas competências técnicas e pedagógicas para desenvolver soluções que facilitem o aprendizado e melhorem os processos de trabalho.</p>
 
 ###
