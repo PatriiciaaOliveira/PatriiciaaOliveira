@@ -74,10 +74,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/https://github.com/PatriiciaaOliveira/https://github.com/PatriiciaaOliveira/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
 </div>
 
